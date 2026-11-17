@@ -1,0 +1,8 @@
+{
+  "name": "Steufa Stream & Distribution Hub",
+  "description": "Plateforme hybride de streaming audio/vidéo haute vitesse, distribution musicale, monétisation 65/35, portefeuille financier sécurisé et coffre-fort privé direction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
